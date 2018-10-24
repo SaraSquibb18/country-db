@@ -2,7 +2,7 @@ package edu.pcc.cis233j.countries;
 
 /**
  * A country in the world
- * @author Your Name & Cara Tang
+ * @author Sara Squibb & Cara Tang
  */
 public class Country {
 	private int id;
